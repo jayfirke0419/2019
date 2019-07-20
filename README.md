@@ -101,6 +101,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Jahanzeb Jabbar](https://twitter.com/Jahanzeb_me4u)|[GitHub](https://github.com/jahanzeb-j/CodeWorld)|[YouTube](https://youtu.be/9WfrwX6ebVI)|SpriteKit, GameplayKit, CoreMotion, AVFoundation|Rejected|
 |jamfly|[GitHub](https://github.com/jamfly/WWDC-2019)||CoreML, NaturalLanguage, ImageIO, Vision|Rejected|
 |[Jari Koopman](https://twitter.com/LotUDev)|[GitHub](https://github.com/MrLotU/WWDC19)||CoreMotion, SpriteKit|Accepted|
+|[Jay Firke]|ARKit, SceneKit, SpriteKit, UIKit |Accepted|
 |[Jiaqi Liu](https://twitter.com/tuzi_moe)|||SpriteKit, ARKit, UIKit, CoreML|Submitted|
 |[Jiaxing Yu](https://twitter.com/Albertyujx)|[GitHub](https://github.com/YujxZJCN/WWDC19-SaveMe)||ARKit, SceneKit, AVFoundation, CAEmitterLayer|Accepted|
 |[Jobe Dylbas](https://github.com/jobedylbas/)|[Github](https://github.com/jobedylbas/librasplayground)||UIKit, Foundation|Accepted|
